@@ -1,0 +1,1 @@
+# contador-de-aforos-automatico
